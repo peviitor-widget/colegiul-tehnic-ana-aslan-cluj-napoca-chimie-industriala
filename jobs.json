@@ -1,0 +1,91 @@
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "fonduri europene",
+      "cofinantare FEDR"
+    ],
+    "matchPercentage": 92,
+    "reason": "Accesarea fondurilor structurale și de coeziune folosește direct competențele de implementare a proiectelor externe, FEDR și POIM, la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3422278",
+    "title": "CONSILIER AFACERI EUROPENE",
+    "company": "UBC SOCIAL S.R.L.",
+    "location": [
+      "IASI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "fonduri europene"
+    ],
+    "matchPercentage": 70,
+    "reason": "Consilierea în afaceri europene corespunde parțial competențelor de fonduri europene și proiecte, cu 0 ani experiență."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438332",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "CONSILIUL JUDETEAN BOTOSANI",
+    "location": [
+      "BOTOSANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "cofinanțare FEDR",
+      "management proiecte"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inspector în administrația publică la consiliul județean, cu sub 3 ani experiență, domeniu parțial relevant."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
+    "title": "REFERENT DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "COMPANIA NATIONALA &quot;IMPRIMERIA NATIONALA&quot; SA",
+    "location": [
+      "BUCURESTI SECTORUL 6",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "management proiecte",
+      "proceduri achiziție"
+    ],
+    "matchPercentage": 62,
+    "reason": "Referent de specialitate în administrație publică la nivel entry-level, domeniu parțial potrivit."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA DARABANI",
+    "location": [
+      "DARABANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "management proiecte",
+      "comunicare primărie"
+    ],
+    "matchPercentage": 62,
+    "reason": "Consilier în administrația publică la primărie, fără experiență, domeniu parțial legat de competențele mele."
+  }
+]
