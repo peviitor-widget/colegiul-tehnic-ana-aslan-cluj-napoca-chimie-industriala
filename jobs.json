@@ -11,11 +11,11 @@
     "date": "2026-11-17T15:28:21Z",
     "status": "tested",
     "tags": [
-      "achiziții publice",
-      "proceduri achiziție"
+      "proceduri achiziție",
+      "monitorizare termene"
     ],
-    "matchPercentage": 92,
-    "reason": "Post entry-level exact în achiziții publice, cu SEAP/SICAP și documentație de atribuire, cerând doar minim 6 luni experiență."
+    "matchPercentage": 88,
+    "reason": "Poziție entry-level exact în achiziții publice, cu SEAP/SICAP, documentație de atribuire și evaluare de oferte, perfect aliniată la competențe și nivel."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
@@ -30,44 +30,10 @@
     "status": "verified",
     "tags": [
       "cofinanțare FEDR",
-      "proceduri POIM"
+      "proiecte externe"
     ],
-    "matchPercentage": 85,
-    "reason": "Domeniul fondurilor europene corespunde direct competențelor de cofinanțare FEDR și proceduri POIM, iar experiența cerută este sub 3 ani."
-  },
-  {
-    "url": "https://multijobs.ro/job/intocmire-oferte-licitatii-publice/6954",
-    "title": "Intocmire oferte licitatii publice",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Satu Mare",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:43:32Z",
-    "status": "tested",
-    "tags": [
-      "proceduri achiziție"
-    ],
-    "matchPercentage": 85,
-    "reason": "Întocmirea ofertelor pentru licitații publice aplică direct procedurile de achiziție la nivel de executor/junior."
-  },
-  {
-    "url": "https://multijobs.ro/job/specialist-licitatii-publice/4007",
-    "title": "Specialist licitații publice",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:14:25Z",
-    "status": "tested",
-    "tags": [
-      "proceduri achiziție"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția de specialist licitații publice se potrivește direct domeniului achizițiilor publice și nivelului mid."
+    "matchPercentage": 88,
+    "reason": "Domeniul fondurilor europene se potrivește direct, iar cerința de sub 3 ani experiență este la nivelul acceptat."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
@@ -81,28 +47,29 @@
     "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
-      "cofinanțare FEDR"
+      "proiecte externe",
+      "proceduri POIM"
     ],
-    "matchPercentage": 82,
-    "reason": "Poziția acceptă explicit candidați junior pe fonduri europene, folosind direct procedurile POIM și cofinanțarea FEDR."
+    "matchPercentage": 85,
+    "reason": "Poziție de consultant fonduri europene care acceptă explicit candidați Junior, aliniată la proiecte finanțate extern și proceduri POIM."
   },
   {
-    "url": "https://multijobs.ro/job/responsabil-achizitii-publice-customer-services-bucuresti/5814",
-    "title": "Responsabil Achiziții Publice Customer Services – București",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA DARABANI",
     "location": [
-      "Bucuresti",
+      "DARABANI",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:43:56Z",
-    "status": "tested",
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
     "tags": [
-      "proceduri achiziție"
+      "comunicare primărie",
+      "dotare instituții"
     ],
-    "matchPercentage": 82,
-    "reason": "Rolul de responsabil achiziții publice folosește direct respectarea procedurilor de achiziție, la un nivel mid potrivit."
+    "matchPercentage": 85,
+    "reason": "Rolul de consilier în administrația publică la primărie vizează exact domeniul meu și acceptă zero ani experiență."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -116,11 +83,29 @@
     "date": "2026-11-17T11:13:18Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
-      "proceduri POIM"
+      "proiecte externe",
+      "cofinanțare FEDR"
     ],
-    "matchPercentage": 78,
-    "reason": "Rol de consultant pe fonduri europene fără marcaj senior, cu aplicare directă a competențelor FEDR și POIM."
+    "matchPercentage": 82,
+    "reason": "Consultant fonduri europene fără marcaje de senior, domeniu care folosește direct proiectele finanțate extern și cofinanțarea FEDR."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-licitatii-publice/4007",
+    "title": "Specialist licitații publice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:14:25Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "dotare instituții"
+    ],
+    "matchPercentage": 82,
+    "reason": "Poziția de specialist în licitații publice se aliniază direct domeniului achizițiilor publice și nivelului de specialitate adecvat."
   },
   {
     "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
@@ -134,29 +119,83 @@
     "date": "2026-11-17T10:30:51Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
-      "proiecte externe"
+      "proiecte externe",
+      "buget proiect"
     ],
-    "matchPercentage": 78,
-    "reason": "Consultanță în fonduri europene, domeniu direct potrivit, fără cerințe de senioritate în descriere."
+    "matchPercentage": 80,
+    "reason": "Consultanță în fonduri europene, domeniu direct relevant, fără indicatori de senior și cu nivel aparent de început de carieră."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3422278",
-    "title": "CONSILIER AFACERI EUROPENE",
-    "company": "UBC SOCIAL S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
+    "title": "REFERENT DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "COMPANIA NATIONALA &quot;IMPRIMERIA NATIONALA&quot; SA",
     "location": [
-      "IASI",
+      "BUCURESTI SECTORUL 6",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:05:46Z",
+    "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "proiecte externe",
-      "cofinanțare FEDR"
+      "dotare instituții",
+      "proceduri achiziție"
     ],
-    "matchPercentage": 76,
-    "reason": "Consilier în afaceri europene, fără experiență, domeniu înrudit cu fondurile europene deși atribuțiile nu sunt detaliate."
+    "matchPercentage": 80,
+    "reason": "Domeniul administrației publice de la Imprimeria Națională corespunde direct competențelor mele, iar experiența sub 3 ani este potrivită."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438332",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "CONSILIUL JUDETEAN BOTOSANI",
+    "location": [
+      "BOTOSANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "dotare instituții",
+      "raportare rezultate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Poziția de inspector în administrația publică la consiliul județean folosește competențe de dotare instituțională și raportare, la nivel entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/intocmire-oferte-licitatii-publice/6954",
+    "title": "Intocmire oferte licitatii publice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:43:32Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "dotare instituții"
+    ],
+    "matchPercentage": 78,
+    "reason": "Întocmirea ofertelor pentru licitații publice utilizează direct procedurile de achiziție și este compatibilă cu un nivel junior."
+  },
+  {
+    "url": "https://cauta.ro/locuri-de-munca/anunt/specialist-in-achizitii-oradea-bihor-3173115",
+    "title": "Specialist în achiziții",
+    "company": "NETPRO SRL",
+    "location": [
+      "MUNICIPIUL ORADEA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-20T12:14:51Z",
+    "status": "scraped",
+    "tags": [
+      "proceduri achiziție",
+      "buget proiect"
+    ],
+    "matchPercentage": 70,
+    "reason": "Sarcina de specialist în achiziții folosește direct procedurile de achiziție, iar titlul nu depășește nivelul mid."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
@@ -167,31 +206,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:41:11Z",
+    "date": "2026-11-19T15:27:16Z",
     "status": "scraped",
     "tags": [
-      "achiziții",
-      "proceduri achiziție"
+      "proceduri achiziție",
+      "monitorizare termene"
     ],
     "matchPercentage": 62,
-    "reason": "Achizițiile de echipamente tehnice folosesc direct procedurile de achiziție, iar nivelul de specialist este accesibil, deși nu este achiziție publică."
+    "reason": "Domeniul achizițiilor se potrivește parțial (private și echipamente tehnice, nu publice/medicale), dar nivelul de specialist fără cerințe senior este accesibil."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3311789",
-    "title": "ASISTENT MANAGER",
-    "company": "DEXA DIAGNOSTIC S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441037",
+    "title": "CONSILIER/EXPERT/INSPECTOR/REFERENT/ECONOMIST ÎN ECONOMIE GENERALA",
+    "company": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
     "location": [
-      "PLOIESTI",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
+    "date": "2026-11-16T13:56:47Z",
+    "status": "verified",
     "tags": [
-      "monitorizare termene",
-      "raportare rezultate"
+      "buget proiect",
+      "dotare instituții"
     ],
-    "matchPercentage": 62,
-    "reason": "Rol entry-level de suport administrativ care folosește parțial monitorizarea termenelor, raportarea și legătura cu autoritățile."
+    "matchPercentage": 60,
+    "reason": "Rolurile administrative din economie generală la o instituție publică folosesc parțial managementul bugetului de proiect, iar experiența zero e potrivită."
   }
 ]
