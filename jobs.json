@@ -1,93 +1,20 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
-    "location": [
-      "BUCURESTI SECTORUL 1",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "fonduri europene",
-      "cofinantare FEDR"
-    ],
-    "matchPercentage": 90,
-    "reason": "Domeniul fondurilor structurale corespunde direct competențelor pe proiecte finanțate extern, cofinanțare FEDR și proceduri POIM, iar experiența cerută e sub 3 ani."
-  },
-  {
-    "url": "https://multijobs.ro/job/specialist-licitatii-publice/4007",
-    "title": "Specialist licitații publice",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:14:25Z",
-    "status": "tested",
-    "tags": [
-      "proceduri achiziție",
-      "management buget"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziția de specialist licitații publice utilizează direct competențele de achiziții publice și este la nivel junior/mid."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438332",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "CONSILIUL JUDETEAN BOTOSANI",
-    "location": [
-      "BOTOSANI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "proceduri achiziție",
-      "termene implementare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inspector de specialitate în administrația publică la consiliul județean, nivel entry-level și domeniu direct relevant."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/expert-achizitii-publice/338/",
-    "title": "Expert Achizitii Publice",
-    "company": "LEOHR S.R.L.",
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:34:20Z",
+    "date": "2026-11-17T15:28:21Z",
     "status": "tested",
     "tags": [
-      "proceduri achiziție",
-      "management buget"
+      "proceduri achizitie"
     ],
-    "matchPercentage": 85,
-    "reason": "Domeniul achizițiilor publice corespunde direct competențelor mele, iar anunțul nu impune o vechime îndelungată."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272377/ABC-Human-Capital/EXPERT-ACHIZITII-PUBLICE",
-    "title": "EXPERT ACHIZITII PUBLICE",
-    "company": "ABC HUMAN CAPITAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:03:48Z",
-    "status": "tested",
-    "tags": [
-      "proceduri achiziție",
-      "management buget"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția de expert în achiziții publice folosește direct competențele mele, fără cerință explicită de experiență senior."
+    "matchPercentage": 90,
+    "reason": "Este un post entry-level de achiziții publice cu SEAP/SICAP și documentație de atribuire, care folosește direct competența de proceduri de achiziție."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273687/ABC-Human-Capital/Expert-achizitii-publice-si-licitatii-publice-(Cluj-Napoca)",
@@ -102,10 +29,225 @@
     "status": "tested",
     "tags": [
       "proceduri achiziție",
-      "monitorizare termene"
+      "licitații publice"
+    ],
+    "matchPercentage": 90,
+    "reason": "Expertiza în achiziții publice și licitații, în Cluj, folosește direct competențele tale de proceduri de achiziție."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "FEDR",
+      "POIM"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rolul de accesare fonduri structurale se potrivește direct cu competențele de proiecte finanțate extern și POIM."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/expert-achizitii-publice/338/",
+    "title": "Expert Achizitii Publice",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:34:20Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "achiziție echipamente"
+    ],
+    "matchPercentage": 88,
+    "reason": "Domeniul achizițiilor publice corespunde direct competențelor tale, iar titlul de expert nu impune explicit o experiență îndelungată."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272377/ABC-Human-Capital/EXPERT-ACHIZITII-PUBLICE",
+    "title": "EXPERT ACHIZITII PUBLICE",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:03:48Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "proceduri POIM"
+    ],
+    "matchPercentage": 88,
+    "reason": "Poziția de expert în achiziții publice se suprapune cu competența ta privind respectarea procedurilor de achiziție."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-licitatii-publice/4007",
+    "title": "Specialist licitații publice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:14:25Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "proceduri POIM"
+    ],
+    "matchPercentage": 87,
+    "reason": "Rolul de specialist în licitații publice corespunde competențelor tale în achiziții și proceduri POIM, fără a fi senior."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-achizitii-publice-customer-services-bucuresti/5814",
+    "title": "Responsabil Achiziții Publice Customer Services – București",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:43:56Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "achiziție echipamente"
     ],
     "matchPercentage": 85,
-    "reason": "Achizițiile publice și licitațiile sunt domeniul meu direct, iar titlul nu desemnează un rol de conducere."
+    "reason": "Rolul de responsabil achiziții publice folosește direct cunoașterea procedurilor de achiziție, la un nivel acceptabil pentru un absolvent."
+  },
+  {
+    "url": "https://multijobs.ro/job/intocmire-oferte-licitatii-publice/6954",
+    "title": "Intocmire oferte licitatii publice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:43:32Z",
+    "status": "tested",
+    "tags": [
+      "proceduri achiziție",
+      "licitații publice"
+    ],
+    "matchPercentage": 85,
+    "reason": "Întocmirea ofertelor pentru licitații publice este o sarcină de execuție care folosește direct procedurile de achiziție studiate."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:13:18Z",
+    "status": "tested",
+    "tags": [
+      "proiecte externe",
+      "cofinantare FEDR"
+    ],
+    "matchPercentage": 82,
+    "reason": "Este un rol de consultant fonduri europene fără cerințe de senioriat, potrivit competențelor de proiecte finanțate extern, cofinanțare FEDR și buget de proiect."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
+    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
+    "company": "FORUM PROIECT INVEST SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:28:12Z",
+    "status": "tested",
+    "tags": [
+      "proiecte externe",
+      "buget proiect"
+    ],
+    "matchPercentage": 82,
+    "reason": "Postul acceptă explicit varianta Junior de consultant fonduri europene, domeniu care folosește direct competențele de proiecte finanțate extern și managementul bugetului."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:30:51Z",
+    "status": "tested",
+    "tags": [
+      "proceduri POIM",
+      "proiecte externe"
+    ],
+    "matchPercentage": 78,
+    "reason": "Consultanța în fonduri europene corespunde direct competențelor de implementare a proiectelor finanțate extern și de proceduri POIM, fără indicator de nivel senior."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA DARABANI",
+    "location": [
+      "DARABANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "comunicare primărie",
+      "dotare instituții"
+    ],
+    "matchPercentage": 72,
+    "reason": "Consilier în administrația publică la primărie, fără experiență, domeniu direct relevant."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438332",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "CONSILIUL JUDETEAN BOTOSANI",
+    "location": [
+      "BOTOSANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "raportare rezultate",
+      "comunicare instituțională"
+    ],
+    "matchPercentage": 70,
+    "reason": "Inspector în administrația publică la consiliul județean, nivel entry-level și domeniu relevant."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
+    "title": "Specialist Achizitii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:17:28Z",
+    "status": "scraped",
+    "tags": [
+      "proceduri achizitie"
+    ],
+    "matchPercentage": 65,
+    "reason": "Sarcinile de achiziții tehnice (cereri de ofertă, evaluare, comenzi în ERP) folosesc parțial competența de respectare a procedurilor de achiziție, iar nivelul de specialist este accesibil unui absolvent."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
@@ -119,65 +261,11 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "proceduri achiziție",
-      "planificare etape"
-    ],
-    "matchPercentage": 82,
-    "reason": "Referent de specialitate în administrația publică, cu sub 3 ani experiență, care folosește direct competențe de achiziții și planificare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3311789",
-    "title": "ASISTENT MANAGER",
-    "company": "DEXA DIAGNOSTIC S.R.L.",
-    "location": [
-      "PLOIESTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "monitorizare termene",
+      "buget proiect",
       "raportare rezultate"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol entry-level de suport cu urmărirea termenelor, raportări și relația cu partenerii și autoritățile, domeniu parțial relevant."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419258",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "PRIMARIA COMUNEI UNTENI",
-    "location": [
-      "UNTENI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "buget proiect",
-      "primărie municipiului"
-    ],
-    "matchPercentage": 70,
-    "reason": "Post entry-level în administrația publică locală, dar sarcinile sunt preponderent fiscale, nu de management de proiect sau fonduri europene, deci potrivirea e doar parțială."
-  },
-  {
-    "url": "https://kpmg-romania.talentlyft.com/jobs/id208262-stagii-de-practica-pentru-studenti-proiect-cod-smis-311689-proiect-cod-smis-311335-71d",
-    "title": "ID208262 Stagii de practică pentru studenți - proiect Cod SMIS: 311689 și proiect Cod SMIS: 311335",
-    "company": "KPMG TAX SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:08:50Z",
-    "status": "tested",
-    "tags": [
-      "proiecte externe",
-      "cofinanțare FEDR"
-    ],
-    "matchPercentage": 70,
-    "reason": "Stagiu de practică pentru studenți în proiecte finanțate de UE (coduri SMIS), nivel ideal și legătură cu fondurile europene și proiectele externe."
+    "matchPercentage": 62,
+    "reason": "Referent în administrația publică cu sub 3 ani experiență, dar atribuțiile sunt generice, deci potrivire parțială."
   },
   {
     "url": "https://cauta.ro/locuri-de-munca/anunt/specialist-in-achizitii-oradea-bihor-3173115",
@@ -188,31 +276,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-21T13:58:43Z",
+    "date": "2026-11-22T13:52:04Z",
     "status": "scraped",
     "tags": [
       "proceduri achiziție",
       "buget proiect"
     ],
-    "matchPercentage": 65,
-    "reason": "Specialist în achiziții la firmă privată: domeniul se potrivește parțial, iar titlul nu indică nivel senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3427522",
-    "title": "INSPECTOR ÎN DOMENIUL SECURITATII SI SANATATII ÎN MUNCA",
-    "company": "BORUSAN TUBE PRODUCTS S.A.",
-    "location": [
-      "Aricestii rahtivani",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:56:47Z",
-    "status": "verified",
-    "tags": [
-      "risc sanitar",
-      "echipamente protecție"
-    ],
-    "matchPercentage": 65,
-    "reason": "Verificarea echipamentelor de protecție, identificarea riscurilor și participarea la situații de urgență folosesc parțial competențele de risc sanitar, iar nivelul e entry-level."
+    "matchPercentage": 62,
+    "reason": "Specialist în achiziții, domeniu înrudit cu achizițiile publice, fără cerință de senioritate."
   }
 ]
